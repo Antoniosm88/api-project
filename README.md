@@ -7,7 +7,7 @@
 
 ## DESCRIPCIÓN
 
-Este es un proyecto Flask - Api Creation para Ironhack. El propósito del proyecto es extraer métricas de opinión de las interacciones de texto, a través de las conversaciones de análisis desde una aplicación de mensajería de chat (como Whatsapp o Slack). He usado MongoDB para analizar los datos (utilizando métodos de inserción de Pymongo), NTLK Sentiment Analysis, Docker, Heroku, bases de datos en la nube y sistemas de recomendación.
+Este es un proyecto Flask - Api Creation para Ironhack. El propósito del proyecto es extraer métricas de opinión de las interacciones de texto, a través de las conversaciones de análisis desde una aplicación de mensajería de chat (como Whatsapp o Slack). He usado MongoDB para analizar los datos (utilizando métodos de inserción de Pymongo),  bases de datos en la nube.
 
 
 ## EL ESQUEMA DE LA BBDD.
